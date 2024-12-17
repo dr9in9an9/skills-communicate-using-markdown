@@ -12,3 +12,7 @@
 ```
 System.out.println("My name is Horseman, Jack Horseman, from the Jack Horseman Show.");
 ```
+
+- [ ] Advent of Code Day 1
+- [ ] Apply for Computer Science Honors College
+- [ ] Apply for Hackathon
